@@ -17,5 +17,5 @@ The energy balance equation for the reactor:
 
 I couldnt fit the parameters well, as i have a bad parameter guess,
 The result is as followed:
-|[file-1] (https://github.com/Advay2803/Math-Project-2/blob/main/file-1.png)
+|[download(file-1)] (https://github.com/Advay2803/Math-Project-2/blob/main/file-1.png)
 
